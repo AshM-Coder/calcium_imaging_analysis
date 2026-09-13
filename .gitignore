@@ -1,0 +1,14 @@
+# Large data files (see data/README.md for how to get these)
+data/DFF_file3_ch1.npy
+data/DFF_file3_ch2.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
